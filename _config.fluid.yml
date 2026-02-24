@@ -838,7 +838,7 @@ remark42:
 # Based on Tencent CloudBase
 # See: https://twikoo.js.org
 twikoo:
-  envId: https://nimble-sfogliatella-0f1b43.netlify.app/.netlify/functions/twikoo
+  envId: http://nas.djwl.top:8070
   region: ap-shanghai
   path: window.location.pathname
 
